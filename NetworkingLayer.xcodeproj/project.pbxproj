@@ -24,6 +24,7 @@
 		79B009E3299B9A76001F8D18 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		79B009E6299B9A76001F8D18 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		79B009E8299B9A76001F8D18 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		79B009EE299B9A99001F8D18 /* Networking */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = Networking; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +41,7 @@
 		79B009CE299B9A74001F8D18 = {
 			isa = PBXGroup;
 			children = (
+				79B009EE299B9A99001F8D18 /* Networking */,
 				79B009D9299B9A74001F8D18 /* NetworkingLayer */,
 				79B009D8299B9A74001F8D18 /* Products */,
 			);
